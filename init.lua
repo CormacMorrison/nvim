@@ -1,3 +1,4 @@
-require("cormac.remap")
-require("cormac.set")
+require("config.remap")
+require("config.set")
+require("config.lazy")
 
