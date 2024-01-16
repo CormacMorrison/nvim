@@ -1,5 +1,5 @@
-vim.opt.guicursor = ""
-
+--sets cursor to block
+--vim.opt.guicursor = ""
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
