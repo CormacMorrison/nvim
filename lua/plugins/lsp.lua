@@ -47,6 +47,7 @@ return {
 					"rust_analyzer",
 					"clangd",
 					"lua_ls",
+					"marksman",
 				},
 				handlers = {
 					lsp.default_setup,
